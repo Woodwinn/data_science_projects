@@ -32,9 +32,7 @@ while (TRUE) {
     print('Draw game!')
     scr$draw = scr$draw + 1
   } else if (
-      (inp == '1' & bot == '3')
-    | (inp == '3' & bot == '2')
-    | (inp == '2' & bot == '1')
+      (inp == '1' & bot == '3') | (inp == '3' & bot == '2') | (inp == '2' & bot == '1')
   ) {
     print('You Win!')
     scr$win = scr$win + 1
