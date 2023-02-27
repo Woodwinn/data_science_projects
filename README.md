@@ -5,6 +5,7 @@ Bootcamp by [DataRockie](https://datarockie.com/) `Batch 6`
 - Dynamic Query: Queries that return results dynamically
 - Converting Date: Converting TH date to EN date
 - ID Card Parser: Using regular expression to extract and parse ID card information
+
 [Click here for access](https://docs.google.com/spreadsheets/d/151eI5jz0nRq3O9EJY7fqErrvtE0IWrDbR8JA8w78WVg/edit?usp=sharing)
 
 ## SQL Database
@@ -18,7 +19,7 @@ Bootcamp by [DataRockie](https://datarockie.com/) `Batch 6`
 - []
 
 ## Data Visualisation
-- []() - Creating 5 charts to visualise the data queried from `African Diamonds` and `mtcars` database using the ggplot2 package in R
+- [](): Creating 5 charts to visualise the data queried from `African Diamonds` and `mtcars` database using the ggplot2 package in R
 
 ## Statistics
 - []()
