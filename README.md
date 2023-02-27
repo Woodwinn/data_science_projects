@@ -9,7 +9,7 @@ Bootcamp by [DataRockie](https://datarockie.com/) `Batch 6`
 [Click here for access](https://docs.google.com/spreadsheets/d/151eI5jz0nRq3O9EJY7fqErrvtE0IWrDbR8JA8w78WVg/edit?usp=sharing)
 
 ## SQL Database
-- [Coffee_shop_owner.sql] - Creating database of Library Café containing five dimension tables and a fact table with some SQL queries to analyze data
+- [Coffee_shop_owner.sql](https://github.com/Woodwinn/data_science_projects/blob/main/SQL/Coffee_shop_database.sql) - Creating database of Library Café containing five dimension tables and a fact table with some SQL queries to analyze data
 
 ## R Programming
 - [Pizza_chatbot.r](https://github.com/Woodwinn/data_science_projects/blob/main/R/Pizza_chatbot.r): Interactive rock-paper-scissors game using R programming
