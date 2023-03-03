@@ -1,5 +1,5 @@
 # Data Science Projects
-Bootcamp by [DataRockie](https://datarockie.com/) `Batch 6`
+Projects and assignments achieved throughout Bootcamp by [DataRockie](https://datarockie.com/) `Batch 6`
 
 ## Spreadsheets
 - Dynamic Query: Queries that return results dynamically
